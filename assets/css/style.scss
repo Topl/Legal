@@ -4,6 +4,7 @@
 
 @import "{{ site.theme }}";
 
-header  {
+header {
+    background: #405D7B url(../images/header-bg.jpg) 0 0 repeat-x;
     font-family: 'Work Sans', 'Helvetica Neue', Helvetica, Arial, serif;
   }
