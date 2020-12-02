@@ -19,12 +19,7 @@
       <div class="inner">
         <h1>Topl Polices and User Agreements</h1>
         <h2>Repository of all agreements and policies governing your use of Topl's products and services.</h2>
-        {% if site.github.is_project_page %}
           <a href="{{ site.github.repository_url }}" class="button"><small>View past versions on</small> GitHub</a>
-        {% endif %}
-        {% if site.github.is_user_page %}
-          <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
-        {% endif %}
       </div>
     </header>
 
@@ -33,11 +28,7 @@
         <section id="main-content">
           {{ content }}
         </section>
-
-          {% if site.github.is_project_page %}
-            <p>This site is maintained by <a href="https://topl.co">Topl, Inc.</a></p>
-          {% endif %}
-
+          <p>This site is maintained by <a href="https://topl.co">Topl, Inc.</a></p>
           <p>If you have any questions regarding the policies or terms contained on this site please contact us at <a href="mailto:legal@topl.me">legal@topl.me</a>.</p>
         </aside>
       </div>
