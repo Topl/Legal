@@ -1,37 +1,13 @@
-# Welcome to GitHub Pages
+# Welcome
 
-You can use the [editor on GitHub](https://github.com/Topl/Legal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+On this site you can find all of the polices and agreements that govern your use of Topl's products and services. These agreements include our Privacy Policy as well as the license agreement for Topl's Blockchain-as-a-Service offering. In addition to the current agreements that you will find below, you can also view past versions of all agreements in the commit history inside our Github repository, [Legal](https://github.com/Topl/Legal/commits/main).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Privacy Policy
 
-### Markdown
+At Topl we are committed to respecting your privacy. We will only use your information in the manner stateed in our Privacy Policy. Our Privacy Policy describes the type of information we will collect when you visit any of our websites (including [topl.co](https://topl.co) and [topl.services](https://topl.services)) or use our services and what this information will be used for. By accessing or using any of our websites or services, you acknowledge you have been informed of and consent to our practices with regard to your personal information and data.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can access our Privacy Policy [here](https://legal.topl.co/privacy_policy).
 
-```markdown
-Syntax highlighted code block
+## BaaS License Agreement
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Topl/Legal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+When you access the Topl Blockchain or any of our affiliated offerings through our hosted services as may be subscribed to through our websites, you are agreeing to the terms of our BaaS License Agreement. Topl's BaaS License Agreement can be found [here](https://legal.topl.co/BaaS_License_Agreement)
