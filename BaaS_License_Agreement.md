@@ -50,8 +50,6 @@ Thank you for making Topl your blockchain provider of choice. Please read this B
 
 *Level 2 Support.*  We will process requests during our hours of operation (9:00 a.m. to 5:00 p.m., Monday through Friday, Central Time Zone), except for holidays in local time. We will use commercially reasonable efforts to respond to your written requests for Level 2 technical support within 24 hours (as averaged across all response times to Level 2 Requests in a given calendar year) following receipt of your request.
 
-*Level 3 Support.* We will process requests during our hours of operation (9:00 a.m. to 5:00 p.m., Monday through Friday, Central Time Zone), except for holidays in local time. We will use commercially reasonable efforts to respond to your written requests for Level 3 technical support within 12 hours (as averaged across all response times to Level 3 Requests in a given calendar year) following receipt of your request.
-
 ## Section 6. Payment and Billing
 
 **6.1** Pricing is available at on our Website. All fees must be paid in US Dollars. Amounts payable under this Agreement are non-refundable, except as otherwise provided in this Agreement. If you fail to pay any fees on time, Topl reserves the right, in addition to taking any other actions available under applicable law, to: (i) charge interest on past due amounts at 1.0% per month or the highest interest rate allowed by law, whichever is less, and to charge all expenses of recovery; and (ii) terminate or suspend Services to you and any associated Organizations.
