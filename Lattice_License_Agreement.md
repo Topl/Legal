@@ -42,7 +42,7 @@ Thank you for choosing to leverage the Topl Blockchain. Please read this Lattice
 
 ## Section 5. Product Lines
 
-**5.1** Lattice billing is determined by the number of Product Lines maintained by an Organization. One Product Line corresponds with a single set of parameters including location types, certificates, and properties that can be applied or related to a collection of assets tracked via Lattice.
+**5.1** Lattice billing is determined by the number of Product Lines maintained by an Organization. One Product Line corresponds with a single set of parameters including location types, certificates, and properties that can be applied or related to a collection of assets tracked via Lattice. Unless otherwise agreed to, the monthly price per Product Line is $150 USD.
 
 ## Section 6. Payment and Billing
 
