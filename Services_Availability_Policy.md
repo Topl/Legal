@@ -1,8 +1,8 @@
 # Topl Services Availability Policy
 
-Topl will use commercially reasonable efforts to maximize the availability of the Services Console as well as the Services defined in the BaaS License Agreement. We will endeavor to provide performance standards as defined below.
+Topl will use commercially reasonable efforts to maximize the availability of the Services defined in the BaaS License Agreement and the Lattice License Agreement. We will endeavor to provide performance standards as defined below.
 
-If over the course of a month, we fail to maintain the Availability Percentages outlined in the table below, then you may be eligible for a Subscription Credit based on your Subscription Tier.
+If over the course of a month, we fail to maintain the Availability Percentages outlined in the table below, then you may be eligible for a Subscription Credit.
 
 | Availability Percentage | Subscription Credit |
 |:-----------------:|:-------------------:|
@@ -14,7 +14,7 @@ If over the course of a month, we fail to maintain the Availability Percentages 
 
 Throughout this Services Availability Policy, the term "month" refers to a calendar month.
 
-"Downtime" is calculated on a monthly basis and equal to the total number of minutes during the month that any of the Services were unavailable. The Services are considered unavailable if all of your continuous attempts to access the Services Console within the minute fail or three of more API endpoints have error rates greater than 25%. Downtime does not include partial minutes of unavailability or scheduled downtime for maintenance and upgrades.
+"Downtime" is calculated on a monthly basis and equal to the total number of minutes during the month that any of the Services were unavailable. The Services are considered unavailable if all of your continuous attempts to access the Services within the minute fail or three of more API endpoints have error rates greater than 25%. Downtime does not include partial minutes of unavailability or scheduled downtime for maintenance and upgrades.
 
 "Availability Percentage" will be calculated on a monthly basis as follows:
 
@@ -44,4 +44,4 @@ Downtime does not include, and you will not be eligible for any Subscription Cre
 ## Subscription Credits
 We will process valid claims within 45 days of receipt. If we determine that you have satisfied the obligations listed in this policy and that none of the above limitations apply to your claim, we will grant you a Subscription Credit.
 
-We will apply any Subscription Credit beginning on your next invoice or payment for Topl Services.
+We will apply any Subscription Credit beginning on your next invoice or payment.
