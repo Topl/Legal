@@ -10,8 +10,12 @@ You can access our Privacy Policy [here](https://legal.topl.co/privacy_policy).
 
 ## BaaS License Agreement
 
-When you access the Topl Blockchain or any of our affiliated offerings through our hosted services as may be subscribed to through our websites, you are agreeing to the terms of our BaaS License Agreement. Topl's BaaS License Agreement can be found [here](https://legal.topl.co/BaaS_License_Agreement)
+When you access the Topl Blockchain or any of our affiliated offerings through our hosted services as may be subscribed to through our websites, you are agreeing to the terms of our BaaS License Agreement. Topl's BaaS License Agreement can be found [here](https://legal.topl.co/BaaS_License_Agreement).
+
+## Annulus License Agreement
+
+When you access Topl's Annulus network explorer, you are agreeing to the terms of our Annulus License Agreement. Topl's Annulus License Agreement can be found [here](https://legal.topl.co/Annulus_License_Agreement).
 
 ## Lattice License Agreement
 
-When you access Topl's Lattice traceability platform, you are agreeing to the terms of our BaaS License Agreement. Topl's Lattice License Agreement can be found [here](https://legal.topl.co/Lattice_License_Agreement)
+When you access Topl's Lattice traceability platform, you are agreeing to the terms of our Lattice License Agreement. Topl's Lattice License Agreement can be found [here](https://legal.topl.co/Lattice_License_Agreement).

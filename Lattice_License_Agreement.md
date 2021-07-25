@@ -158,4 +158,4 @@ Either Party may bring a lawsuit in the federal or state courts of Travis County
 
 **13.16. Required Disclosures.** We will not disclose your User Data or any details regarding your account or usage information to any government or third party except as necessary to comply with the law or court order or as otherwise provided herein.
 
-**13.17. Website.** The term Website, Topl's Website, or any similar terms refers collectively to any information published or made available by Topl to [www.topl.co](https://topl.co) or [www.topl.services](https://topl.services) as well as any subdomains thereof.
+**13.17. Website.** The term Website, Topl's Website, or any similar terms refers collectively to any information published or made available by Topl to [www.topl.co](https://topl.co) or [topl.services](https://topl.services) as well as any subdomains thereof.
