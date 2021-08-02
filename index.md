@@ -6,7 +6,7 @@ On this site you can find all of the polices and agreements that govern your use
 
 At Topl we are committed to respecting your privacy. We will only use your information in the manner stateed in our Privacy Policy. Our Privacy Policy describes the type of information we will collect when you visit any of our websites (including [topl.co](https://topl.co) and [topl.services](https://topl.services)) or use our services and what this information will be used for. By accessing or using any of our websites or services, you acknowledge you have been informed of and consent to our practices with regard to your personal information and data.
 
-You can access our Privacy Policy [here](https://legal.topl.co/privacy_policy).
+You can access our Privacy Policy [here](https://legal.topl.co/Privacy_Policy).
 
 ## BaaS License Agreement
 
