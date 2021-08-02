@@ -16,7 +16,13 @@ We recommend that you read this Privacy Policy in full to ensure that you are fu
 
 *Communications with us.* If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message  you may send us, and any other information you may choose to provide. We may also receive a confirmation when you open an email from us.
 
-**Why we collect your information**
+**Information collected through using the Services**
+
+*Usage and device information.* In order to improve our Services and protect our users, we collect information related to how you use the Services, including what pages you may view and how you navigate applications or websites. Additionally, we may collect information about the devices you use to access the Services. This includes things like IP addresses, the type of browser and device you use, and the web page you visited before coming to our sites. Your devices (depending on their settings) may also transmit location information to the Services. For example, we use device information to detect abuse and identify and troubleshoot bugs.
+
+*Use of cookies and other tracking tools.* We also use cookies, tracking pixels, and similar technologies to gather information regarding the date and time of your visits to our sites and use of our Services. Like most technology companies, we automatically gather this information and store it in log files each time you visit our website or access your account on our network. "Cookies" are small pieces of information that a website sends to your computer’s hard drive while you are viewing a web site. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our website. Persistent cookies can be removed by following Internet browser help file directions. You may choose to refuse or disable cookies via the settings on your browser, however by doing so, some areas of our website may not work properly.
+
+## Why we collect your information
 
 Collecting and analyzing certain information you provide is essential for us to provide the best possible experience for you. We use the information we collect in various ways, including to:
 
@@ -46,9 +52,9 @@ We may share information as discussed below, **but we won’t sell it to adverti
 
 *Security.* Topl is committed to protecting your information. To achieve this, we employ a variety of security technologies and measures designed to protect information from unauthorized access, use, or disclosure. However, no services or information, whether provided by Topl or anyone else can ever be guaranteed to be 100% secure.
 
- *Retention.* We retain information collected from you for as long as we have an ongoing legitimate business need to do so. This means that even after you cease use of our Services, we may retain portions of your information for a limited time in order to comply with our reporting or compliance requirements. As soon as is reasonably possible, we will either delete or anonymize your information.
+*Retention.* We retain information collected from you for as long as we have an ongoing legitimate business need to do so. This means that even after you cease use of our Services, we may retain portions of your information for a limited time in order to comply with our reporting or compliance requirements. As soon as is reasonably possible, we will either delete or anonymize your information.
 
- ## Your rights to your data
+## Your rights to your data
 
 Topl believes in providing our users with control over their data.
 
