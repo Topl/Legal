@@ -1,6 +1,6 @@
 # Welcome
 
-On this site you can find all of the polices and agreements that govern your use of Topl's products and services. These agreements include our Privacy Policy as well as the license agreement for Topl's Blockchain-as-a-Service offering. In addition to the current agreements that you will find below, you can also view past versions of all agreements in the commit history inside our Github repository, [Legal](https://github.com/Topl/Legal/commits/main).
+On this site you can find all of the polices and agreements that govern your use of Topl's products and services. These agreements include our Privacy Policy as well as the license agreements for Topl's various blockchain-powered offerings. In addition to the current agreements that you will find below, you can also view past versions of all agreements in the commit history inside our Github repository, [Legal](https://github.com/Topl/Legal/commits/main).
 
 ## Privacy Policy
 
@@ -12,10 +12,14 @@ You can access our Privacy Policy [here](https://legal.topl.co/Privacy_Policy).
 
 When you access the Topl Blockchain or any of our affiliated offerings through our hosted services as may be subscribed to through our websites, you are agreeing to the terms of our BaaS License Agreement. Topl's BaaS License Agreement can be found [here](https://legal.topl.co/BaaS_License_Agreement).
 
-## Annulus License Agreement
-
-When you access Topl's Annulus network explorer, you are agreeing to the terms of our Annulus License Agreement. Topl's Annulus License Agreement can be found [here](https://legal.topl.co/Annulus_License_Agreement).
-
 ## Lattice License Agreement
 
-When you access Topl's Lattice traceability platform, you are agreeing to the terms of our Lattice License Agreement. Topl's Lattice License Agreement can be found [here](https://legal.topl.co/Lattice_License_Agreement).
+When you access Topl's Lattice traceability platform, you are agreeing to the terms of our Lattice License Agreement, which can be found [here](https://legal.topl.co/Lattice_License_Agreement).
+
+## RaaS License Agreement
+
+When you access Topl's Registry-as-a-Service (RaaS) platform, you are agreement to the terms of our RaaS License Agreement, which can be found [here](https://legal.topl.co/RaaS_License_Agreement).
+
+## Annulus License Agreement
+
+When you access Topl's Annulus network explorer, you are agreeing to the terms of our Annulus License Agreement, which can be found [here](https://legal.topl.co/Annulus_License_Agreement).
