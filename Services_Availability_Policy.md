@@ -1,6 +1,6 @@
 # Topl Services Availability Policy
 
-Topl will use commercially reasonable efforts to maximize the availability of the Services defined in the BaaS License Agreement, the Lattice License Agreement, and the Annulus License Agreement. We will endeavor to provide performance standards as defined below.
+Topl will use commercially reasonable efforts to maximize the availability of the Services defined in the BaaS License Agreement, the Lattice License Agreement, RaaS License Agreement, and Annulus License Agreement. We will endeavor to provide performance standards as defined below.
 
 If over the course of a month, we fail to maintain the Availability Percentages outlined in the table below, then you may be eligible for a Subscription Credit.
 
