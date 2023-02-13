@@ -8,6 +8,10 @@ At Topl we are committed to respecting your privacy. We will only use your infor
 
 You can access our Privacy Policy [here](https://legal.topl.co/Privacy_Policy).
 
+## Ribn Terms of Use
+
+When you access the Topl Blockchain or any of our affiliated offerings through our Ribn wallet, you are agreeing to the terms of our Ribn Terms of Use Agreement. Topl's BaaS License Agreement can be found [here](https://legal.topl.co/Ribn_Terms_of_Use).
+
 ## BaaS License Agreement
 
 When you access the Topl Blockchain or any of our affiliated offerings through our hosted services as may be subscribed to through our websites, you are agreeing to the terms of our BaaS License Agreement. Topl's BaaS License Agreement can be found [here](https://legal.topl.co/BaaS_License_Agreement).
