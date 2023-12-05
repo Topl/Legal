@@ -24,6 +24,6 @@ When you access Topl's Lattice traceability platform, you are agreeing to the te
 
 When you access Topl's Registry-as-a-Service (RaaS) platform, you are agreement to the terms of our RaaS License Agreement, which can be found [here](https://legal.topl.co/RaaS_License_Agreement).
 
-## Annulus License Agreement
+## Explorer License Agreement
 
-When you access Topl's Annulus network explorer, you are agreeing to the terms of our Annulus License Agreement, which can be found [here](https://legal.topl.co/Annulus_License_Agreement).
+When you access Topl's block explorer, you are agreeing to the terms of our Block Explorer License Agreement, which can be found [here](https://legal.topl.co/Explorer_License_Agreement).
